@@ -24,7 +24,7 @@
   </div>
 </template>
 <script>
-// import TodoList from "./TodoList.vue";
+// import
 import store from "../store";
 import TodoListItem from "./TodoListItem.vue";
 

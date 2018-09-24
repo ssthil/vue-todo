@@ -13,11 +13,6 @@ ul li {
   background: #faf9f9;
   border-bottom: 1px solid #ccd3de;
 }
-.selected {
-  color: rgb(24, 38, 70);
-  background: #d9e4f5;
-}
-
 .form-section {
   border: 1px solid #d5dbe6;
   background-color: #fff;

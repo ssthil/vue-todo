@@ -18,23 +18,5 @@ export default {
 };
 </script>
 <style scoped>
-li {
-  overflow: hidden;
-}
-.checkbox {
-  float: left;
-  margin-right: 10px;
-}
-.list-item {
-  float: left;
-}
-.remove {
-  float: right;
-  margin-right: 10px;
-  color: rgb(29, 75, 145);
-  font-size: 15px;
-}
-.remove:hover {
-  color: rgb(250, 46, 46);
-}
+@import url("../assets/style/todolist.css");
 </style>

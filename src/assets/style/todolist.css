@@ -8,6 +8,14 @@ li {
 .list-item {
   float: left;
 }
+.selected {
+  color: rgb(24, 38, 70);
+  background: #d9e4f5;
+}
+li:hover {
+  color: rgb(24, 38, 70);
+  background: #d9e4f5;
+}
 .remove {
   float: right;
   margin-right: 10px;
